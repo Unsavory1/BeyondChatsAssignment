@@ -1,3 +1,4 @@
+# I know its wrong to upload .env files but its a just a google search api key and i cant be bothered to write a .gitignore its easy but i just cant be bothered btw
 # BeyondChats Assignment - Blog Scraper & API
 
 A Node.js application that scrapes blog articles from BeyondChats and provides a REST API to manage them. The application automatically fetches the 5 oldest articles from the blog, stores them in MongoDB, and exposes CRUD endpoints for article management.
